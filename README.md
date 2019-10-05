@@ -1,10 +1,10 @@
-![Logo](logo.svg)
+![Logo](logo.png)
 
 # Digital Services Handbook
 The Handbook for every SHC member to use and utilize the variety of services we offer!
 
 Content:
-- Rocket.Chats
+- Rocket.Chat
 
 ## How to open it?
 
