@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="326px" height="129px" viewBox="0 0 326 129" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" fill="#000000">
+            <path d="M50.5,0 C61.2695526,0 70,8.73044738 70,19.5 C70,27.4610465 65.2293067,34.3078379 58.3908248,37.3374695 C66.3610297,40.4828176 72,48.2540359 72,57.3423063 L72,98.3412701 C72,99.1872583 71.9511386,100.021834 71.8560839,100.84233 L65,100.842 L65,129 L54,129 L54,100.842 L47,100.842 L47,129 L36,129 L36,100.842 L29.1439161,100.84233 C29.0488614,100.021834 29,99.1872583 29,98.3412701 L29,68.967 L-1.30739863e-12,21.053423 L8.08768132,14 L30.1355317,50.4292837 C32.1660109,44.4459684 36.7593727,39.6460325 42.6082064,37.3368869 C35.7702294,34.3071721 31,27.4606595 31,19.5 C31,8.73044738 39.7304474,0 50.5,0 Z" id="Combined-Shape"></path>
+            <text id="Digital-Services-Han" font-family="DINCondensed-Bold, DIN Condensed" font-size="40" font-style="condensed" font-weight="bold" letter-spacing="1.2">
+                <tspan x="89" y="37">DIGITAL SERVICES </tspan>
+                <tspan x="89" y="77">HANDBOOK</tspan>
+            </text>
+            <text id="GRH-SHC" font-family="DINCondensed-Bold, DIN Condensed" font-size="20" font-style="condensed" font-weight="bold" letter-spacing="0.6">
+                <tspan x="89" y="32">GRH SHC</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
